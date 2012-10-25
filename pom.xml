@@ -19,7 +19,12 @@
     <licenses>
         <license>
             <name>MIT License</name>
-            <url>http://opensource.org/licenses/MIT</url>
+            <url>https://github.com/appendto/amplify/blob/master/MIT-LICENSE.txt</url>
+            <distribution>repo</distribution>
+        </license>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE Version 2</name>
+            <url>https://github.com/appendto/amplify/blob/master/GPL-LICENSE.txt</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
@@ -41,7 +46,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <amplifyjs.version>1.1.0</amplifyjs.version>
     </properties>
 
     <build>
